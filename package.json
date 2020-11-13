@@ -4,14 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "node index",
+    "start": "node index"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "apollo-server": "^2.19.0",
+    "bcryptjs": "^2.4.3",
     "graphql": "^15.4.0",
+    "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.10.14"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
   }
 }
