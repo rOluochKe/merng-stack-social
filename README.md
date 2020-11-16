@@ -1,5 +1,5 @@
 ## MERNG Stack Social App
-Learning how to create a social media app using MongoDB, Express, Node, React, GraphQL, and Node (the MERNG stack). I learned how to implement a GraphQL server that uses Node and Express to communicate to a MongoDB Database and fetch and persist data to a social media app back-end.
+Learning how to create a social media app using MongoDB, Express, Node, React, GraphQL, and Node (the MERNG stack). I learned how to implement a GraphQL server that uses Node and Express to communicate to a MongoDB Database and fetch and persist data to a social media app back-end. [Tutorial](https://www.youtube.com/watch?v=n1mdAPFq2Os)
 
 ## Run the program
 
